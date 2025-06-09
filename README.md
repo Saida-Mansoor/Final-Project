@@ -63,7 +63,6 @@ Among these, **XGBoost achieved the best performance with a test R² score of 98
 ## 📄 Final Report
 
 A comprehensive 1–2 page case study report is included:
-- [Final_Project_Report.pdf](Final_Project_Report.pdf)
-
+- [Final Project Report.pdf](Final%20Project%20Report.pdf)
 ---
 
